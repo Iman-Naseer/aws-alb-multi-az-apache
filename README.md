@@ -143,10 +143,10 @@ flowchart LR
 
 ## ✅ Results
 
-- ✔️ Both Apache servers deployed automatically through user data
-- ✔️ Traffic is evenly distributed across two Availability Zones
-- ✔️ Target group health checks show **2 healthy targets**
-- ✔️ Servers are **not reachable directly**, only through the ALB
+- Both Apache servers deployed automatically through user data
+- Traffic is evenly distributed across two Availability Zones
+- Target group health checks show **2 healthy targets**
+- Servers are **not reachable directly**, only through the ALB
 
 ---
 
@@ -168,7 +168,7 @@ aws-alb-multi-az-apache/
 └── README.md
 ```
 
-## 👩‍💻 Author
+## Author
 
 **Iman Naseer**
 [![GitHub](https://img.shields.io/badge/GitHub-Iman--Naseer-181717?style=flat&logo=github)](https://github.com/Iman-Naseer)
